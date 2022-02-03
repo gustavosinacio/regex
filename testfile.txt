@@ -1,0 +1,29 @@
+I love cats
+I love dogs
+cat.
+896.
+?=+.
+abc1
+hog
+dog
+bog
+wazzzzzup
+wazzzup
+wazup
+aaaabc
+aabbbbc
+aacc
+a
+1 file found?
+2 files found?
+24 files found?
+No files found.
+   whitespaces before this
+	whitespaces before this
+           whitespaces before this
+whitespaces before this
+
+
+file_record_transcript.pdf
+file_07241999.pdf
+testfile_fake.pdf.tmp
